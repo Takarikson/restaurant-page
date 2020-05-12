@@ -23,9 +23,6 @@ html {
 body {
   margin: 0;
 }
-h1{
-  color: red;
-}
 
 /**
  * Render the `main` element consistently in IE.
