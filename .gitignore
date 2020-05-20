@@ -1,3 +1,7 @@
+#vscode
+.vscode
+#resouces
+resouces/img
 # Logs
 logs
 *.log
